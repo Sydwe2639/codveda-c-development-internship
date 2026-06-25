@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1782404980 source:c:\users\ndumiso nyawo\documents\internfiles\level_1\studentmanagementsystem(t1)\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

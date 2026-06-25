@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1782405460 source:c:\users\ndumiso nyawo\documents\internfiles\level_1\sortingsearchingalgorithms(t2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
